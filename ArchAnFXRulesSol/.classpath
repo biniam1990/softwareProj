@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/kokeb/Desktop/Corazza/jars_basic/creditVerifSystem.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kokeb/Desktop/Corazza/jars_basic/jess.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kokeb/Desktop/Corazza/jars_basic/rulesengine.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kokeb/Desktop/Corazza/jars_basic/rulesencoding.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
